@@ -1,0 +1,17 @@
+.copyright_footer{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    background-color: black;
+    line-height: 3;
+    text-align: center;
+    width: 100%;
+}
+img{
+    border-radius: 20px;
+    border: 0;
+    vertical-align: middle;
+}
+#marqueeStyle{
+    font-size: 100px;
+}
